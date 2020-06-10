@@ -1,0 +1,15 @@
+<!DOCTYPE StreamControl>
+<settings>
+ <xsplitPath><![CDATA[C:\Users\aldoc\Downloads\StreamControl\scoreflags\]]></xsplitPath>
+ <layoutPath><![CDATA[C:\Users\aldoc\Downloads\StreamControl\scoreflags\scoreflags.xml]]></layoutPath>
+ <useCDATA>0</useCDATA>
+ <games>
+  <game><![CDATA[Super Street Fighter IV]]></game>
+  <game><![CDATA[Ultimate Marvel vs Capcom 3]]></game>
+  <game><![CDATA[Persona 4: Arena]]></game>
+  <game><![CDATA[Tekken Tag Tournament 2]]></game>
+  <game><![CDATA[Soul Calibur V]]></game>
+  <game><![CDATA[King of Fighters XIII]]></game>
+  <game><![CDATA[Tekken 7]]></game>
+ </games>
+</settings>

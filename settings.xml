@@ -1,7 +1,7 @@
 <!DOCTYPE StreamControl>
 <settings>
- <xsplitPath><![CDATA[C:\Users\aldoc\Downloads\StreamControl\scoreflags\]]></xsplitPath>
- <layoutPath><![CDATA[C:\Users\aldoc\Downloads\StreamControl\scoreflags\scoreflags.xml]]></layoutPath>
+ <xsplitPath><![CDATA[C:\Users\aldoc\Documents\GitHub\SKORBROD\scoreflags\]]></xsplitPath>
+ <layoutPath><![CDATA[C:\Users\aldoc\Documents\GitHub\SKORBROD\scoreflags\scoreflags.xml]]></layoutPath>
  <useCDATA>0</useCDATA>
  <games>
   <game><![CDATA[Super Street Fighter IV]]></game>
